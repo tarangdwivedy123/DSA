@@ -1,0 +1,34 @@
+class Solution {
+public:
+    int maximumWealth(vector<vector<int>>& accounts) {
+        int max=0,sum=0;
+        for(int i=0;i<(accounts.size());i++){
+            for(int j=0;j<(accounts[i].size());j++)
+            {
+                sum=sum+accounts[i][j];
+            }
+            if(sum>max){max=sum;}
+            sum=0;
+        }
+        return max;
+    }
+};
+
+
+\\documentation 
+***
+std::vector< std::vector<int> > my_array; /* 2D Array */
+
+my_array.size(); /* size of y */
+my_array[0].size(); /* size of x */
+***
+***
+myVector[
+  Vector[0, 4, 2, 5],
+  Vector[1, 4, 2]
+];
+
+/*When you call for myVector[1].size() it would return 3 and [0] would return 4.
+
+For the amount of rows (int vectors) in the 2d vector, you can just use myVector.size()
+***
