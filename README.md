@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tarangdwivedy123/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tarangdwivedy123/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tarangdwivedy123/DSA/tree/master/0238-product-of-array-except-self) |
+| [1036-rotting-oranges](https://github.com/tarangdwivedy123/DSA/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tarangdwivedy123/DSA/tree/master/0011-container-with-most-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/tarangdwivedy123/DSA/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/tarangdwivedy123/DSA/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
