@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/tarangdwivedy123/DSA/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/tarangdwivedy123/DSA/tree/master/0207-course-schedule) |
 | [1036-rotting-oranges](https://github.com/tarangdwivedy123/DSA/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
@@ -67,8 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/tarangdwivedy123/DSA/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/tarangdwivedy123/DSA/tree/master/0207-course-schedule) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/tarangdwivedy123/DSA/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/tarangdwivedy123/DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tarangdwivedy123/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
