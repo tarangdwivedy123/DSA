@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tarangdwivedy123/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tarangdwivedy123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/tarangdwivedy123/DSA/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/tarangdwivedy123/DSA/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/tarangdwivedy123/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tarangdwivedy123/DSA/tree/master/0210-course-schedule-ii) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tarangdwivedy123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tarangdwivedy123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
