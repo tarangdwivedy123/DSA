@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarangdwivedy123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/tarangdwivedy123/DSA/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/tarangdwivedy123/DSA/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/tarangdwivedy123/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,8 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarangdwivedy123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/tarangdwivedy123/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarangdwivedy123/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/tarangdwivedy123/DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
