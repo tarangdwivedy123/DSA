@@ -1,0 +1,26 @@
+Given an array of integers arr[]  and a number k. Return the maximum sum of a subarray of size k.
+
+Code: 
+class Solution {
+  public:
+    int maximumSumSubarray(vector<int>& arr, int k) {
+        int i=0;
+        int j=0;
+        int maxSum=INT_MIN;
+        int tempSum = 0;
+        while(j<arr.size()){
+         int subArrLen = j-i+1;
+         tempSum += arr[j];
+         if(subArrLen<k){
+             j++;
+         }   
+         else if(subArrLen == k){
+             maxSum = max(tempSum,maxSum);
+             tempSum = tempSum - arr[i];
+             i++;
+             j++;
+         }
+        }
+        return maxSum;
+    }
+};
